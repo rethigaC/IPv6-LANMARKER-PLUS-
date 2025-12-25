@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Network Dashboard</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>Global Network Asset Distribution Dashboard</h1>
+        <div id="timestamp"></div>
+    </header>
+
+    <main>
+        <div class="quadrant-container">
+            <div class="quadrant-title">IPv6 Assets</div>
+            <div class="quadrant-content">
+                <div class="list-widget">
+                    <h3>Top 10 Countries</h3>
+                    <ol id="ipv6-top-countries"></ol>
+                </div>
+                <div class="list-widget">
+                    <h3>Top 10 AS</h3>
+                    <ol id="ipv6-top-as"></ol>
+                </div>
+            </div>
+        </div>
+
+        <div class="quadrant-container" id="map-container">
+            <div class="quadrant-title">Global Landmark Distribution</div>
+            <div id="map"></div>
+        </div>
+    </main>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+    <script src="app.js"></script>
+</body>
+</html>
