@@ -1,0 +1,88 @@
+MAC,Latitude,Longitude,LocationName,Country
+00:1a:2b:3c:4d:5e,35.6895,139.6917,Tokyo,Japan
+00:1b:2c:3d:4e:5f,43.651,-79.347,Toronto,Canada
+00:1c:2d:3e:4f:60,-33.8688,151.2093,Sydney,Australia
+00:1d:2e:3f:50:61,48.8566,2.3522,Paris,France
+00:1e:2f:40:51:62,40.7128,-74.006,New York,United States
+00:1f:30:41:52:63,51.5074,-0.1278,London,United Kingdom
+00:20:31:42:53:64,52.52,13.405,Berlin,Germany
+00:21:32:43:54:65,55.7558,37.6173,Moscow,Russia
+00:22:33:44:55:66,1.3521,103.8198,Singapore,Singapore
+00:23:34:45:56:67,19.076,72.8777,Mumbai,India
+00:24:35:46:57:68,13.0827,80.2707,Chennai,India
+00:25:36:47:58:69,28.6139,77.209,Delhi,India
+00:26:37:48:59:6a,37.7749,-122.4194,San Francisco,United States
+00:27:38:49:5a:6b,34.0522,-118.2437,Los Angeles,United States
+00:28:39:4a:5b:6c,41.8781,-87.6298,Chicago,United States
+00:29:3a:4b:5c:6d,45.5017,-73.5673,Montreal,Canada
+00:2a:3b:4c:5d:6e,31.2304,121.4737,Shanghai,China
+00:2b:3c:4d:5e:6f,39.9042,116.4074,Beijing,China
+00:2c:3d:4e:5f:70,35.6762,139.6503,Yokohama,Japan
+00:2d:3e:4f:60:71,22.3964,114.1095,Hong Kong,China
+00:2e:3f:50:61:72,25.276987,55.296249,Dubai,UAE
+00:2f:40:51:62:73,24.7136,46.6753,Riyadh,Saudi Arabia
+00:30:41:52:63:74,-26.2041,28.0473,Johannesburg,South Africa
+00:31:42:53:64:75,-1.2921,36.8219,Nairobi,Kenya
+00:32:43:54:65:76,-12.0464,-77.0428,Lima,Peru
+00:33:44:55:66:77,-34.6037,-58.3816,Buenos Aires,Argentina
+00:34:45:56:67:78,-22.9068,-43.1729,Rio de Janeiro,Brazil
+00:35:46:57:68:79,-23.5505,-46.6333,São Paulo,Brazil
+00:36:47:58:69:7a,14.5995,120.9842,Manila,Philippines
+00:37:48:59:6a:7b,10.8231,106.6297,Ho Chi Minh City,Vietnam
+00:38:49:5a:6b:7c,13.7563,100.5018,Bangkok,Thailand
+00:39:4a:5b:6c:7d,21.0285,105.8542,Hanoi,Vietnam
+00:3a:4b:5c:6d:7e,3.139,101.6869,Kuala Lumpur,Malaysia
+00:3b:4c:5d:6e:7f,1.29027,103.851959,Singapore,Singapore
+00:3c:4d:5e:6f:80,35.8617,104.1954,China,China
+00:3d:4e:5f:70:81,55.9533,-3.1883,Edinburgh,United Kingdom
+00:3e:4f:60:71:82,59.3293,18.0686,Stockholm,Sweden
+00:3f:50:61:72:83,60.1695,24.9354,Helsinki,Finland
+00:40:51:62:73:84,50.8503,4.3517,Brussels,Belgium
+00:41:52:63:74:85,48.2082,16.3738,Vienna,Austria
+00:42:53:64:75:86,47.4979,19.0402,Budapest,Hungary
+00:43:54:65:76:87,44.4268,26.1025,Bucharest,Romania
+00:44:55:66:77:88,38.7223,-9.1393,Lisbon,Portugal
+00:45:56:67:78:89,41.9028,12.4964,Rome,Italy
+00:46:57:68:79:8a,40.4168,-3.7038,Madrid,Spain
+00:47:58:69:7a:8b,50.1109,8.6821,Frankfurt,Germany
+00:48:59:6a:7b:8c,52.3676,4.9041,Amsterdam,Netherlands
+00:49:5a:6b:7c:8d,53.3498,-6.2603,Dublin,Ireland
+00:4a:5b:6c:7d:8e,35.2271,-80.8431,Charlotte,United States
+00:4b:5c:6d:7e:8f,39.7392,-104.9903,Denver,United States
+00:4c:5d:6e:7f:90,33.4484,-112.074,Phoenix,United States
+00:4d:5e:6f:80:91,29.7604,-95.3698,Houston,United States
+00:4e:5f:70:81:92,32.7767,-96.797,Dallas,United States
+00:4f:60:71:82:93,38.9072,-77.0369,Washington DC,United States
+00:50:61:72:83:94,42.3601,-71.0589,Boston,United States
+00:51:62:73:84:95,47.6062,-122.3321,Seattle,United States
+00:52:63:74:85:96,45.5122,-122.6587,Portland,United States
+00:53:64:75:86:97,36.1627,-86.7816,Nashville,United States
+00:54:65:76:87:98,39.9612,-82.9988,Columbus,United States
+00:55:66:77:88:99,39.7684,-86.1581,Indianapolis,United States
+00:56:67:78:89:9a,35.1495,-90.049,Memphis,United States
+00:57:68:79:8a:9b,33.749,-84.388,Atlanta,United States
+00:58:69:7a:8b:9c,30.2672,-97.7431,Austin,United States
+00:59:6a:7b:8c:9d,25.7617,-80.1918,Miami,United States
+00:5a:6b:7c:8d:9e,44.9778,-93.265,Minneapolis,United States
+00:5b:6c:7d:8e:9f,43.0389,-87.9065,Milwaukee,United States
+00:5c:6d:7e:8f:a0,39.1031,-84.512,Cincinnati,United States
+00:5d:6e:7f:90:a1,35.6895,139.6917,Tokyo,Japan
+00:5e:6f:80:91:a2,43.651,-79.347,Toronto,Canada
+00:5f:70:81:92:a3,-33.8688,151.2093,Sydney,Australia
+00:60:71:82:93:a4,48.8566,2.3522,Paris,France
+00:61:72:83:94:a5,40.7128,-74.006,New York,United States
+00:62:73:84:95:a6,51.5074,-0.1278,London,United Kingdom
+00:63:74:85:96:a7,52.52,13.405,Berlin,Germany
+00:64:75:86:97:a8,55.7558,37.6173,Moscow,Russia
+00:65:76:87:98:a9,1.3521,103.8198,Singapore,Singapore
+00:66:77:88:99:aa,19.076,72.8777,Mumbai,India
+00:67:78:89:9a:ab,13.0827,80.2707,Chennai,India
+00:68:79:8a:9b:ac,28.6139,77.209,Delhi,India
+00:69:7a:8b:9c:ad,37.7749,-122.4194,San Francisco,United States
+00:6a:7b:8c:9d:ae,34.0522,-118.2437,Los Angeles,United States
+00:6b:7c:8d:9e:af,41.8781,-87.6298,Chicago,United States
+00:6c:7d:8e:9f:b0,31.2304,121.4737,Shanghai,China
+00:6d:7e:8f:a0:b1,39.9042,116.4074,Beijing,China
+00:6e:7f:90:a1:b2,35.6762,139.6503,Yokohama,Japan
+00:6f:80:91:a2:b3,22.3964,114.1095,Hong Kong,China
+00:70:81:92:a3:b4,25.276987,55.296249,Dubai,UAE
